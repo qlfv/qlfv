@@ -2,9 +2,6 @@
 
 <h3 align="center">A passionate Engineer Specialized technology AI</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Wiminds&style=flat-square&color=blue)
-
-
 ## 🚀 Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,6 +23,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentinlfvr/)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lefevre.needemand.com/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wiminds&style=flat-square&color=blue)
 
 <!-- ## 📝 Recent Blog Posts
 
