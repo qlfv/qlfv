@@ -13,11 +13,11 @@
 
 ## 📈 GitHub Stats
 
-![Wiminds's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wiminds&show_icons=true&theme=radical)
+![Wiminds's GitHub stats](https://github-readme-stats.vercel.app/api?username=qlfv&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wiminds&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qlfv&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 
