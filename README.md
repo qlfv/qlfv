@@ -28,7 +28,7 @@
       </td>
       <td>
         <ul>
-          <li>🚀 5+ years of experience</li>
+          <li>🚀 3+ years of experience</li>
           <li>🤖 AI & Machine Learning Expert</li>
           <li>🌐 Full-Stack Developer</li>
           <li>☁️ Cloud Solutions Architect</li>
@@ -79,11 +79,11 @@
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qlfv&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=qlfv&theme=dark&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qlfv&theme=dark&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qlfv&theme=dark" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -152,11 +152,13 @@ Node.js      ██████████████░░░░░░░░�
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/qlfv/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qlfv&repo=project1&theme=dark" alt="Project 1"/>
+
+  <a href="https://github.com/qlfv/AssistantTrading">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qlfv&repo=AssistantTrading&theme=dark" alt="Project 2"/>
   </a>
-  <a href="https://github.com/qlfv/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qlfv&repo=project2&theme=dark" alt="Project 2"/>
+  </br>
+  <a href="https://github.com/qlfv/Perplexity-API-Demo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=qlfv&repo=Perplexity-API-Demo&theme=dark" alt="Project 1"/>
   </a>
 </div>
 
