@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
-
-<h3 align="center">A passionate Engineer Specialized in AI Technology | Freelance Developer</h3>
+<h3 align="center">Développeur Web, IA & Blockchain Freelance | Certifié IBM | Spécialiste RAG, Chatbots, Smart Contracts</h3>
+<p align="center">🚀 Disponible pour missions freelance, consulting et collaborations sur projets innovants !</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/quentinlfvr/">
