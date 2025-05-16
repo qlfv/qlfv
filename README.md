@@ -88,7 +88,7 @@ Certifié IBM – Portfolio et réalisations sur demande.</h3>
   <a href="https://www.linkedin.com/in/quentinlfvr/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://lefevre.needemand.com/">
+  <a href="https://www.qlabs.fr/">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
