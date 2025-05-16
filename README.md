@@ -1,5 +1,8 @@
 <h1 align="center">Quentin Lefevre</h1>
-<h3 align="center">Développeur Web, IA & Blockchain Freelance | Certifié IBM | Spécialiste RAG, Chatbots, Smart Contracts</h3>
+<h3 align="center">Développement de solutions digitales sur-mesure : applications web, IA, blockchain, chatbots, smart contracts, automatisation.
+Accompagnement de startups, PME et indépendants de l’idée au déploiement.
+Missions freelance, consulting, formation, audit.
+Certifié IBM – Portfolio et réalisations sur demande.</h3>
 <p align="center">🚀 Disponible pour missions freelance, consulting et collaborations sur projets innovants !</p>
 
 <div align="center">
