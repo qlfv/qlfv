@@ -6,7 +6,7 @@ Certifié IBM – Portfolio et réalisations sur demande.</h3>
 <p align="center">🚀 Disponible pour missions freelance, consulting et collaborations sur projets innovants !</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+profil+!;Construisons+vos+solutions+digitales+ensemble" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
 </div>
 
 ## 🎯 Quick Facts
