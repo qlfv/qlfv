@@ -1,9 +1,7 @@
 <h1 align="center">Quentin Lefevre</h1>
 <h3 align="center">Développement de solutions digitales sur-mesure : applications web, IA, blockchain, chatbots, smart contracts, automatisation.
 Accompagnement de startups, PME et indépendants de l’idée au déploiement.
-Missions freelance, consulting, formation, audit.
-Certifié IBM – Portfolio et réalisations sur demande.</h3>
-<p align="center">🚀 Disponible pour missions freelance, consulting et collaborations sur projets innovants !</p>
+</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Bienvenue+sur+mon+profil+!" alt="Typing SVG" />
